@@ -79,4 +79,41 @@ displays starting lines of a text
 16. tail -n 
 displays last lines of a text
 
-17.
+17. tar
+create Archive and extract the Archive files
+Options:
+-c : Creates Archive 
+-x : Extract the archive 
+-f : creates archive with given filename 
+-t : displays or lists files in archived file 
+-v : Displays Verbose Information 
+-z : zip, creates tar file using gzip 
+tar cvf file.tar *.c : creates a tar file called file.tar
+tar xvf file.tar : extracts files from Archives
+tar xvzf file.tar.gz : extracts files from tar archived file.tar.gz files
+ 
+18. chmod
+
+19. chown
+
+20. kill
+
+21. ping
+
+22. wget
+
+23. history
+
+24.echo
+
+25. zip, unzip
+
+26. hostname
+
+27. nano, vi
+
+28. su
+
+29. ps
+
+30. 
