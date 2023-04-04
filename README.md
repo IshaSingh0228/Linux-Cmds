@@ -175,7 +175,7 @@ su -l : runs a login script to switch to a diff user
 
 **29. ps**
 Gives the snapshot of the running processes<br>
-
+ps aux <br> 
 >**Options:**<br>
 ps -u : list the processes associated with specific user<br>
 ps -A or -e : shows all running processes<br>
