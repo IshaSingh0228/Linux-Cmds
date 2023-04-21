@@ -191,3 +191,9 @@ ps -T : displays all processes associated with current shell session
 >Enables data transfer over various network protocols.<br>
 -o : Store output in a file.<br>
 -O : Specify that the local file should have the name of the remote file that was downloaded.
+
+**33. touch**
+> create a file without opening
+
+**34. cron
+
